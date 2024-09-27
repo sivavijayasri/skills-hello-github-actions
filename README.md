@@ -14,24 +14,31 @@ _Create a GitHub Action and use it in a workflow._
 </header>
 
 <!--
-  <<< Author notes: Step 4 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
+  <<< Author notes: Finish >>>
+  Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Step 4: Merge your workflow file
+## Finish
 
-_You're now able to write and run an Actions workflow! :sparkles:_
+_Congratulations friend, you've completed this course!_
 
-Merge your changes so the action will be a part of the `main` branch.
+<img src=https://octodex.github.com/images/jetpacktocat.png alt=celebrate width=300 align=right>
 
-### :keyboard: Activity: Merge your workflow file
+Here's a recap of all the tasks you've accomplished in your repository:
 
-1. In your repo, click on the **Pull requests** tab.
-1. Click on the pull request you created in step 1.
-1. Click **Merge pull request**, then click **Confirm merge**.
-1. Optionally, click **Delete branch** to delete your `welcome-workflow` branch.
-1. Wait about 20 seconds for actions to run, then refresh this page (the one you're following instructions from) and an action will automatically close this step and open the next one.
+- You've created your first GitHub Actions workflow file.
+- You learned where to make your workflow file.
+- You created an event trigger, a job, and steps for your workflow.
+- You're ready to automate anything you can dream of.
+
+### What's next?
+
+- Learn more about GitHub Actions by reading "[Learn GitHub Actions](https://docs.github.com/actions/learn-github-actions)".
+- Use actions created by others in [awesome-actions](https://github.com/sdras/awesome-actions).
+- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/hello-github-actions).
+- [Take another GitHub Skills course](https://github.com/skills).
+- Learn more about GitHub by reading the "[Get started](https://docs.github.com/get-started)" docs.
+- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
 <footer>
 
